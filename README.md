@@ -1,95 +1,94 @@
-## 🚀 About Me
+# 💫 About Me
 
-### Hi there! I'm **Akshat Kushwaha** 👋
+<img src="https://raw.githubusercontent.com/Akshat1224/Akshat1224/main/assets/banner.png" alt="Banner" width="100%"/>
 
-I'm a **Full-Stack Developer** and a **B.Tech CSE student at Lovely Professional University**. Passionate about **web development, scalable applications,** and learning **new technologies**.  
+## Hi there! 👋 I'm Akshat Kushwaha
 
----
-
-## 🔥 What I'm Working On
-
-- 🚀 Building an **E-commerce Landing Page** with **React.js & Tailwind CSS**.
-- 💡 Improving backend skills with **Laravel**.
-- 📦 Exploring **Redux** for state management in React.
-- 🌍 Looking to collaborate on **Full-Stack projects** using **React, Node.js, and MongoDB**.
+### 🚀 About Me
+I'm a third-year B.Tech. student at Lovely Professional University, passionate about software development, web technologies, and building scalable applications.
 
 ---
 
-## 💡 Looking for Help With
-
-- **Best practices for scalable web architectures**.
-- **Laravel** backend development insights.
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Java, C++, JavaScript, Python, HTML, CSS  
-**Frontend:** React.js, Tailwind CSS, Bootstrap, Vite  
-**Backend:** Node.js, Express.js, Laravel  
-**Databases:** MongoDB, SQL  
-**Tools & Platforms:** GitHub, Netlify, Vercel, Render, Cloudinary  
+### 💻 Currently Working On
+✅ Developing an **interactive e-commerce landing page** using React.js and Tailwind CSS.  
+✅ Enhancing my **Laravel** skills to build robust backend applications.  
+✅ Exploring **Redux** for better state management in React applications.  
 
 ---
 
-## 📜 Certifications & Achievements
-
-- 🏆 **96.86% percentile** in **Naukri Campus Young Turks** (India’s largest skill contest)
-- 🏆 **Finalist** in **AIESEC’s Career Summit**
-- 🏅 **HackerRank Python Skill Certificate**
-- 🎯 **AIR 824** in **Coding Ninjas Code Combat 3.0**
-- 🏆 **Tata Group’s ESG on Forage**
-- 📜 **DSA by Programming Pathshala**
-- 📜 **Coursera:** Generative AI, Prompt Engineering, Server-side JavaScript with Node.js
+### 🤝 Looking to Collaborate On
+🔹 Open-source projects related to **web development** and **backend engineering**.  
+🔹 **Full-stack applications** with React, Node.js, and MongoDB.  
 
 ---
 
-## 🌟 Projects
-
-### 🔹 **E-commerce Website** *(Nov 2024)*  
-Tech: **React.js, Tailwind CSS, Node.js**  
-✔ Developed a **responsive** e-commerce platform, improving user engagement by **20%**.  
-✔ Integrated a **secure payment gateway** and optimized checkout, reducing cart abandonment by **15%**.  
-
-### 🔹 **Restaurant Website (Foodies)** *(May 2024)*  
-Tech: **Node.js, EJS, MongoDB**  
-✔ Built a **food ordering website** with **real-time updates** and **secure authentication**.  
-✔ Implemented **order tracking** to enhance the customer experience.  
+### 📚 Currently Learning
+📌 **Laravel** for backend development.  
+📌 **Redux** for state management in React.  
 
 ---
 
-## 📈 Coding Profiles
-
-- **LeetCode:** Solved **300+ problems** (170 Medium, 101 Easy, 29 Hard)  
-- **GeeksforGeeks:** Solved **130 problems**, **Institute Rank: 5061**  
-- **HackerRank:** 4⭐ in Java, 3⭐ in Python, Problem Solving, and C  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat1224&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat1224&theme=radical" width="49%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1224&layout=compact&theme=radical" width="49%" />
-</div>
+### 💬 Ask Me About
+- **React.js, Node.js, and Express.js**  
+- **Frontend development and UI/UX best practices**  
+- **Building full-stack applications**  
 
 ---
 
-## 🌐 Connect With Me
+### 🎯 Technical Skills
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshat_2217)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-kushwaha)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatkushwaha7oct2003@gmail.com)  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,redux,git,github" alt="Tech Stack" width="100%"/>
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Akshat1224&icon=0&color=0)
+### 🏆 Certifications & Achievements
+🏅 **Tata Group’s ESG on Forage**  
+🏅 **Data Structures and Algorithms by Programming Pathshala**  
+🏅 **Coursera:** Generative AI with Large Language Models, Prompt Engineering for ChatGPT, Server-side JavaScript with Node.js  
+🏅 **HackerRank Python Skill Certificate**  
+🏅 **Achieved AIR 824** in Coding Ninjas Code Combat 3.0  
+🏅 **96.86% percentile** in Naukri Campus Young Turks (India’s largest skill contest)  
+🏅 **Finalist** in AIESEC’s Career Summit  
+
+---
+
+### 🔥 Projects
+#### E-commerce Website | React, Tailwind CSS, Node.js *(Nov 2024)*
+- Developed a **responsive** e-commerce platform, improving user engagement by **20%**.  
+- Integrated a **secure payment gateway** and optimized checkout, reducing cart abandonment by **15%**.  
+
+#### Restaurant Website (Foodies) | Node.js, EJS, MongoDB *(May 2024)*
+- Built a **food ordering website** with real-time updates and secure authentication.  
+- Implemented **order tracking** to enhance the customer experience.  
+
+---
+
+### 🖥️ Coding Profiles
+- **LeetCode:** Solved **300+ problems** (170 Medium, 101 Easy, 29 Hard).  
+- **GeeksforGeeks:** Solved **130 problems** with an **Institute Rank of 5061**.  
+- **HackerRank:** 4-star in Java, 3-star in Python, Problem Solving, and C.  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat1224&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat1224&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat1224&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-kushwaha) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akshat_2217) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatkushwaha7oct2003@gmail.com)
 
 ---
 
 ### 🎉 Fun Fact
-> I once ranked **AIR 824** in a national-level coding competition and scored **96.86 percentile** in India's largest skill contest—so I guess my keyboard gets more exercise than I do! 😆
+I once ranked **AIR 824** in a national-level coding competition and **96.86 percentile** in India’s largest skill contest—so I guess my keyboard gets more exercise than I do! 😆
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
