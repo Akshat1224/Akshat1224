@@ -1,6 +1,7 @@
 # 💫 About Me
 
-<img src="https://raw.githubusercontent.com/Akshat1224/Akshat1224/main/assets/banner.png" alt="Banner" width="100%"/>
+<img src="https://github.com/Akshat1224/Akshat1224/blob/main/assets/banner.png?raw=true" alt="Banner" width="100%"/>
+
 
 ## Hi there! 👋 I'm Akshat Kushwaha
 
