@@ -12,7 +12,7 @@ I'm a third-year B.Tech. student at Lovely Professional University, passionate a
 
 ### 💻 Currently Working On
 ✅ Developing an **interactive e-commerce landing page** using React.js and Tailwind CSS.  
-✅ Enhancing my **Laravel** skills to build robust backend applications.  
+✅ Enhancing my **full stack** skills to build robust backend applications.  
 ✅ Exploring **Redux** for better state management in React applications.  
 
 ---
@@ -24,7 +24,7 @@ I'm a third-year B.Tech. student at Lovely Professional University, passionate a
 ---
 
 ### 📚 Currently Learning
-📌 **Laravel** for backend development.  
+📌 **NextJs** for easy management of full stack development.  
 📌 **Redux** for state management in React.  
 
 ---
@@ -65,8 +65,8 @@ I'm a third-year B.Tech. student at Lovely Professional University, passionate a
 ---
 
 ### 🖥️ Coding Profiles
-- **LeetCode:** Solved **300+ problems** (170 Medium, 101 Easy, 29 Hard).  
-- **GeeksforGeeks:** Solved **130 problems** with an **Institute Rank of 5061**.  
+- **LeetCode:** Solved **370+ problems** (207 Medium, 122 Easy, 40 Hard).  
+- **GeeksforGeeks:** Solved **143 problems** with an **Institute Rank of 4843**.  
 - **HackerRank:** 4-star in Java, 3-star in Python, Problem Solving, and C.  
 
 ---
